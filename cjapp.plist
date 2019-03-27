@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.43.184.242/download/DSL_Demo.ipa</string>
+					<string>http://27.17.51.10:8080/download/DSL_Demo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://121.43.184.242/download/iphone57@2x.png</string>
+					<string>http://27.17.51.10:8080/download/iphone57@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://121.43.184.242/download/iphone-portrait-667h@2x.png</string>
+					<string>http://27.17.51.10:8080/download/iphone-portrait-667h@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
