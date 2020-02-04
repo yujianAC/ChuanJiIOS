@@ -1,0 +1,33 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "
+
+ 你上次YouTD的经验代码是:
+-load 2B71-C2E2-F4BC-G3BE
+ 目前没有办法自动载入经验代码。
+ 在将来的版本中可能加入这个功能，不过现在只能
+ 手动输入或从文档中复制到游戏中载入。 :)
+
+" )
+	call Preload( "
+
+ 代码只能用于玩家: 日不落肥皂
+ 游戏版本: You TD v1.08b
+
+" )
+	call Preload( "
+
+PS: 一个以代码为文件名的文件已经自动生成到游戏保存目录下的 'Backlog' 文件夹.
+ 你可以将文件夹中的文件按创建时间排序，来整理你过去的代码。
+
+" )
+	call Preload( "
+
+PPS: 请无视这个文件里的其它冗余的东西。以我目前的水平，它们无法避免。
+
+" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
